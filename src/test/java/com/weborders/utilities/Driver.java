@@ -18,7 +18,7 @@ public class Driver {
     }
 
     public static WebDriver getDriver() {
-        //if WebDriver object doesn't exist
+        //if webdriver object doesn't exist
         //create it
         if (driver == null) {
             //specify browser type in configuration.properties file
